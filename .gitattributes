@@ -306,3 +306,4 @@ macosx-theme.deb filter=lfs diff=lfs merge=lfs -text
 qt4-style-kvantum.deb filter=lfs diff=lfs merge=lfs -text
 Translation-en_GB filter=lfs diff=lfs merge=lfs -text
 feren-lite-desktop.deb filter=lfs diff=lfs merge=lfs -text
+ferensources-ubuntu.deb filter=lfs diff=lfs merge=lfs -text
