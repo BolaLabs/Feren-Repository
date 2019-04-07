@@ -308,3 +308,13 @@ Translation-en_GB filter=lfs diff=lfs merge=lfs -text
 feren-lite-desktop.deb filter=lfs diff=lfs merge=lfs -text
 ferensources-ubuntu.deb filter=lfs diff=lfs merge=lfs -text
 feren-backgrounds-vanadium.deb filter=lfs diff=lfs merge=lfs -text
+calamares-branding-feren.deb filter=lfs diff=lfs merge=lfs -text
+calamares-settings-feren-plasma.deb filter=lfs diff=lfs merge=lfs -text
+feren-appmenu-integration.deb filter=lfs diff=lfs merge=lfs -text
+calamares-settings-feren-cinnamon.deb filter=lfs diff=lfs merge=lfs -text
+calamares-settings-feren-oem.deb filter=lfs diff=lfs merge=lfs -text
+feren-app-packages-cinnamon.deb filter=lfs diff=lfs merge=lfs -text
+feren-calamares-global-settings.deb filter=lfs diff=lfs merge=lfs -text
+feren-qtgtk-integration.deb filter=lfs diff=lfs merge=lfs -text
+feren-repository-keyring.deb filter=lfs diff=lfs merge=lfs -text
+vivaldi-config-feren.deb filter=lfs diff=lfs merge=lfs -text
